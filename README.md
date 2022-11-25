@@ -2,7 +2,7 @@
 
 A Micro.blog plug-in that enables a shortcode to embed a [Micro.blog bookshelf](https://help.micro.blog/t/bookshelves/515) on any page.
 
-![Screenshot of the "grid" style](https://raw.githubusercontent.com/kottkrig/microdotblog-photos-page/main/docs/screenshot-grid.webp)
+![Screenshot](https://github.com/kottkrig/microdotblog-bookshelf-shortcode/blob/83ede594bc94468f31f7419411c5a92b0f509815/docs/screenshot.webp)
 
 ## Features
 
