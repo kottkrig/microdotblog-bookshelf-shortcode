@@ -60,3 +60,7 @@ Grid:
 .bookshelf--variant-grid .bookshelf__meta {
   display: none;
 }
+
+.bookshelf--variant-grid .bookshelf__cover {
+  width: 100%;
+}
