@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "title": "Bookshelf shortcode",
   "description": "A shortcode to embed a Micro.blog bookshelf.",
   "includes": ["/css/bookshelf.css"]
