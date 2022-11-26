@@ -1,6 +1,6 @@
 # 📚 Bookshelf shortcode for Micro.blog
 
-A Micro.blog plug-in that enables a shortcode to embed a [Micro.blog bookshelf](https://help.micro.blog/t/bookshelves/515) on any page.
+A Micro.blog plug-in that installs a shortcode for embedding [Micro.blog bookshelves](https://help.micro.blog/t/bookshelves/515) on any Micro.blog page.
 
 ![Screenshot](https://raw.githubusercontent.com/kottkrig/microdotblog-bookshelf-shortcode/main/docs/screenshot.webp)
 
