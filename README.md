@@ -19,7 +19,7 @@ A Micro.blog plug-in that enables a shortcode to embed a [Micro.blog bookshelf](
 {{< bookshelf shelf="finishedreading" variant="grid" >}}
 ```
 
-### Screenshots
+Some examples
 
 ![Screenshot of "list" variant](https://raw.githubusercontent.com/kottkrig/microdotblog-bookshelf-shortcode/main/docs/screenshot-list.webp)
 
